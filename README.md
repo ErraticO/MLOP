@@ -4,6 +4,7 @@ About the MLOps Platform
 It aims to clarify the responsibilities of workers and realize rapid deployment in machine learning.
 
 The following benefits can be realized by simply standardizing the coding of data science plus: 
+The goal is that data scientists only need to push their own code, and then it can be used for production deployment after simple review by others.
 1. The code reuse rate is high, and the model code comes from data scientists. 
 2. Engineers have a clear division of labor and clear responsibilities, and do not need to change other people's code. 
 3. Except for auditing and configuration deployment, the whole process is completed automatically.
